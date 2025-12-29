@@ -29,10 +29,13 @@ Daily GitHub practice to maintain consistency and improve coding skills.
 - Python logic practice
 - If-else conditions
 
-- #Day 4
+ # Day 4
 -  Python loops & functions practice
 -  
--# Day 5
--  Mini Python calculator project 
+ # Day 5
+-  Mini Python calculator project
+-
+ # Day 6
+-  Python number guessing game 
 
 
