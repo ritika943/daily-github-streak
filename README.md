@@ -31,11 +31,14 @@ Daily GitHub practice to maintain consistency and improve coding skills.
 
  # Day 4
 -  Python loops & functions practice
--  
+   
  # Day 5
 -  Mini Python calculator project
--
+
  # Day 6
--  Python number guessing game 
+-  Python number guessing game
+  
+# Day 7
+- Built a basic Python To-Do List using functions and loops
 
 
