@@ -42,7 +42,15 @@ Daily GitHub practice to maintain consistency and improve coding skills.
 - Built a basic Python To-Do List using functions and loops
 
 # Day 8
-- Created a basic personal HTML page using HTML tags
+- Created a basic personal HTML page using HTML
+
+# Day 9
+Internship Application Form made using HTML.
+
+# Day 10
+Simple Python script printing a motivational message.
+
+
 
 
 
