@@ -53,6 +53,10 @@ Simple Python script printing a motivational message.
 # Day 11
 Maintained GitHub streak with a simple Python script.
 
+#  Day 12
+
+
+# Day 13
 
 
 
