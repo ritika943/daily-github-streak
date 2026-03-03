@@ -54,10 +54,10 @@ Simple Python script printing a motivational message.
 Maintained GitHub streak with a simple Python script.
 
 #  Day 12
-
+Not Done
 
 # Day 13
-
+Explained what i did 
 
 
 
